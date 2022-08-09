@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-5506937863282366146
+--- !u!114 &-7572312318173886974
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,12 +20,12 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: sgVertexColor_Network1_Grow_Mat
-  m_Shader: {fileID: -6465566751694194690, guid: 0f8892936a494444b8f7b2cebecd5717,
+  m_Name: sg_Hidden_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 705906b02b546054baebf060bbf12050,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -48,16 +48,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Color_Depth: 1.55
-    - _Emission: 0
-    - _Float: -0.01
-    - _High: -5
-    - _Hue_Offset: 0
-    - _Low: 0.24
-    - _Opacity: -2
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors:
-    - _Center: {r: 0, g: 0, b: 0, a: 0}
-    - _Vector3: {r: 0.73, g: -0.68, b: 0, a: 0}
+    m_Colors: []
   m_BuildTextureStacks: []

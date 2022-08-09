@@ -50,13 +50,13 @@ Material:
     - _Noise_contrast: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Ring_Radius: 5
-    - _Ring_Thickness: 1.69
+    - _Ring_Radius: 132.56
+    - _Ring_Thickness: 1
     - _Soft_In: 1.78
     - _Soft_Out: 1.24
     - _Texture_Contrast: 1
     - _Wide_Mask: 6.63
-    - _Wide_Ring_Thickness: 99.86
+    - _Wide_Ring_Thickness: 386.1
     - _Wide_Soft_In: 100
     - _Wide_Soft_Out: 10
     m_Colors:

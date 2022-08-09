@@ -35,7 +35,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Alpha_Strength: 1
+    - _Alpha_Strength: 1.1
     - _Fresnel_Power: 2.43
     - _Noise_Freq: 493.8
     - _Noise_contrast: 1

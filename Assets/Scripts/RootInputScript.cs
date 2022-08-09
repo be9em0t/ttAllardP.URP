@@ -42,7 +42,7 @@ public class RootInputScript : MonoBehaviour
 			messageTxt = "Click screen to activate";
 		}
 		else {
-			messageTxt = "Arrow Up/Down - Elevator\nH - toggle this message\nG - Ground wave\nR - Road wave\nB - Building wave\nCtrl-B - Buildings Stop";
+			messageTxt = "Arrow Up/Down - Elevator\nH - toggle this message\n(G)round\n(C)anals | Ctrl-C to hide\n(B)uildings\n(N)etwork | Ctrl-C to hide";
 			mouseX = Input.GetAxis("Mouse X") * MouseSensitivityX * Time.deltaTime;
 			mouseY = Input.GetAxis("Mouse Y") * MouseSensitivityY * Time.deltaTime;
 			elevation = Input.GetAxis("Elevator") * ElevatorSpeed * Time.deltaTime;

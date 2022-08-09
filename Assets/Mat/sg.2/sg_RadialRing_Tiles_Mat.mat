@@ -42,7 +42,7 @@ Material:
     - _Invert_Alpha: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Ring_Radius: 5.83
+    - _Ring_Radius: -15.71
     - _Ring_Thickness: 12.8
     - _Soft_In: 7.05
     - _Soft_Out: 5.1
